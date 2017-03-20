@@ -1,5 +1,7 @@
 class Array
   def accumulate(&block)
-    map { |f| block.call(f) }
+    arr = []
+    each { |f| arr << block.call(f) }
+    arr
   end
 end
