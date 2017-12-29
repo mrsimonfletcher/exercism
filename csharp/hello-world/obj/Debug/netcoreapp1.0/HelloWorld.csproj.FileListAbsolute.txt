@@ -1,0 +1,12 @@
+/Users/simonfletcher/exercism/csharp/hello-world/bin/Debug/netcoreapp1.0/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/simonfletcher/exercism/csharp/hello-world/bin/Debug/netcoreapp1.0/xunit.runner.utility.netstandard15.dll
+/Users/simonfletcher/exercism/csharp/hello-world/bin/Debug/netcoreapp1.0/xunit.runner.reporters.netstandard15.dll
+/Users/simonfletcher/exercism/csharp/hello-world/bin/Debug/netcoreapp1.0/HelloWorld.deps.json
+/Users/simonfletcher/exercism/csharp/hello-world/bin/Debug/netcoreapp1.0/HelloWorld.runtimeconfig.json
+/Users/simonfletcher/exercism/csharp/hello-world/bin/Debug/netcoreapp1.0/HelloWorld.runtimeconfig.dev.json
+/Users/simonfletcher/exercism/csharp/hello-world/bin/Debug/netcoreapp1.0/HelloWorld.dll
+/Users/simonfletcher/exercism/csharp/hello-world/bin/Debug/netcoreapp1.0/HelloWorld.pdb
+/Users/simonfletcher/exercism/csharp/hello-world/obj/Debug/netcoreapp1.0/HelloWorld.csproj.CoreCompileInputs.cache
+/Users/simonfletcher/exercism/csharp/hello-world/obj/Debug/netcoreapp1.0/HelloWorld.AssemblyInfo.cs
+/Users/simonfletcher/exercism/csharp/hello-world/obj/Debug/netcoreapp1.0/HelloWorld.dll
+/Users/simonfletcher/exercism/csharp/hello-world/obj/Debug/netcoreapp1.0/HelloWorld.pdb
